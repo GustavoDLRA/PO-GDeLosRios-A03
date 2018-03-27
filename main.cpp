@@ -14,7 +14,13 @@ int main() {
   bool p4;
   bool p5;
   bool p6;
-
+std::cout<<"FRACCIONES A UTILIZAR:\n";
+std::cout<<"Fraccion 1: ";
+std::cout<<frac1.toString();
+std::cout<<"\n";
+std::cout<<"Fraccion 2: ";
+std::cout<<frac2.toString();
+std::cout<<"\nOPERACIONES ARITMETICAS\n";
 std::cout<<"SUMA DE FRACCIONES\n";
 std::cout<<frac3.toString()+ "\n";
 std::cout<<"RESTA DE FRACCIONES\n";
